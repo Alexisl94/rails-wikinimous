@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.formulaire {
+  padding: 400px;
+  text-align: center;
+}
+
+.red-button {
+  border-radius: 100%;
+}
